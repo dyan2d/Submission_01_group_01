@@ -270,8 +270,8 @@ controls the extent of access
 given to persons using the
 system.
 
-Phase five: Dummy
-Deploy and Testing
+Phase five: System Testing
+Deploy and Testing (Dummy)
 
 After internal testing by the
 Team, the SMS system is
@@ -375,7 +375,7 @@ Cassie Beaton
 
 Corrections/Modifications to submission 1 Cassie Beaton
 
-APPENDEX
+APPENDIX
 Example of system adjustment in calculations to cater for a teacher who fails to enter a grade:
 If a student does 5 subjects, therefore their percentage is calculated as:
 total marks achieved for all subjects
